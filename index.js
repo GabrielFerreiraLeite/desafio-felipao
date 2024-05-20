@@ -1,1 +1,1 @@
-console.log("let's keep going")
+console.log("let's get started")
